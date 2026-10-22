@@ -4,7 +4,7 @@
 
 ## 使用
 
-线上地址：https://future-game-laboratory.github.io/sequence-frame-strip/
+线上地址：https://future-game-laboratory.github.io/2D-Frame-Studio/
 
 - 选择图片、选择文件夹，或把素材拖到导入区。文件按自然数字顺序排列。
 - 调整横向 / 竖向、输出缩放和像素间距。尺寸实时更新。
